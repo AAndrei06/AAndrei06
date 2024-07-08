@@ -1,11 +1,4 @@
 
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>Andrei Stats</title>
-
-	</head>
-	<body>
 		<h1>👋 HI!, I'm Andrei </h1>
 		<hr>
 		<h4>My name is Andrei, I am a Full-Stack Development and Machine Learning Enthusiast
@@ -106,5 +99,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAndrei06&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="AAndrei06's GitHub Stats" />
 
 </div>
-</body>
-</html>
+
