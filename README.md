@@ -4,37 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Andrei Stats</title>
-		<style type="text/css">
-			*{
-				font-family: Arial;
-			}
-			body{
-				padding: 0px;
-				margin: 0px;
-				padding: 40px;
-			}
-			.small{
-				width: 50px;
-			}
-			.tech{
-				margin: 30px;
-				margin-left: auto;
-				margin-right: auto;
-				display: flex;
-				flex-wrap: wrap;
-				gap:5px;
-			}
-			.stats{
-				margin-left:auto;
-				margin-right:auto;	
-				display:flex;
-				flex-wrap:wrap;
-			}
-			
-			.stats img{
-				margin:12px;
-			}
-		</style>
+
 	</head>
 	<body>
 		<h1>👋 HI!, I'm Andrei </h1>
