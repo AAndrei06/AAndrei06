@@ -34,6 +34,8 @@ I always like to learn about technology and develop myself in this field and I c
 	<a href = "https://scikit-learn.org/stable/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /></a>
 	<a href = "https://opencv.org/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" /></a>
 	<a href = "https://www.algolia.com/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg" /></a>
+ 	<a href = "https://docs.celeryq.dev/en/stable/" target="_blank"> <img height='50' src="https://apps.odoo.com/web/image/loempia.module/66946/icon_image?unique=fa41267" /></a>
+	<a href = "https://ai.google.dev/edge/mediapipe/solutions/guide" target="_blank"> <img height='50' src="https://viz.mediapipe.dev/logo.png" /></a>
 	<a href = "https://www.canva.com/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /></a>
 	<a href = "https://git-scm.com/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
 	<a href = "https://github.com/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /></a>
