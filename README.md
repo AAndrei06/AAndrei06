@@ -27,6 +27,7 @@ I always like to learn about technology and develop myself in this field and I c
 	<a href = "https://www.postgresql.org/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /></a>
 	<a href = "https://www.mongodb.com/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></a>
 	<a href = "https://jquery.com/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" /></a>
+	<a href = "https://jqueryui.com/" target="_blank"> <img height='50' src="https://w7.pngwing.com/pngs/511/156/png-transparent-jquery-ui-hd-logo.png" /></a>
 	<a href = "https://www.selenium.dev/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" /></a>
 	<a href = "https://numpy.org/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" /></a>
 	<a href = "https://matplotlib.org/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" /></a>
