@@ -44,7 +44,8 @@ I always like to learn about technology and develop myself in this field and I c
 	<a href = "https://www.linux.org/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
 	<a href = "https://code.visualstudio.com/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>
 	<a href = "https://www.json.org/json-en.html" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" /></a>
-	
+ 	<a href = "https://www.tensorflow.org/" target="_blank"> <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/></a>
+	<a href = "https://www.ultralytics.com/" target="_blank"> <img height='50' src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/f9/fa/bdf9fac1-82c5-c920-e500-4a2f27321304/AppIcon-0-0-1x_U007epad-0-85-220.png/512x512bb.jpg"/></a>
 </div>
 <br>
 <br>
