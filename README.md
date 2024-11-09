@@ -49,6 +49,7 @@ I always like to learn about technology and develop myself in this field and I c
 	<a href = "https://laravel.com/" target="_blank"><img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></a>
 	<a href = "https://react.dev/" target="_blank"><img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
 	<a href = "https://www.mysql.com/" target="_blank"><img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></a>
+	<a href = "https://pusher.com/" target="_blank"><img height='50' src="https://avatars.githubusercontent.com/u/739550?v=4" /></a>
 </div>
 <br>
 <br>
