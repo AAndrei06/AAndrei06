@@ -7,7 +7,6 @@ and I participated in many programming competitions in which I was successful.I 
 I always like to learn about technology and develop myself in this field and I can't wait to see what the future will look like in this field.<br>I'm open for work and collaborations!</h4>
 <br>
 <ul>
-<li>📧 You can contact me at this <a href="mailto:andreiarsenii90@gmail.com">email</a></li>
 </ul>
 <h2>Technologies with which I have worked and I have a good understanding of them:</h2>
 <br>
